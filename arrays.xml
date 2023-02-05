@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="job_categories">
+        <item>Software Development</item>
+        <item>Web Development</item>
+        <item>Mobile Development</item>
+        <item>Design</item>
+        <item>Marketing</item>
+    </string-array>
+</resources>

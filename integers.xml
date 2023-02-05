@@ -1,0 +1,3 @@
+<resources>
+    <integer name="database_query_timeout">10000</integer>
+</resources>

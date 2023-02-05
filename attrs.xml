@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="CustomSearchView">
+        <attr name="searchHint" format="string" />
+    </declare-styleable>
+</resources>

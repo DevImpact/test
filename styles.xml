@@ -1,0 +1,31 @@
+<!-- Base application theme. -->
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">#3F51B5</item>
+    <item name="colorPrimaryDark">#303F9F</item>
+    <item name="colorAccent">#FF4081</item>
+</style>
+
+<!-- Job Listing Activity theme -->
+<style name="JobListingActivityTheme" parent="AppTheme">
+    <!-- Customize the action bar style -->
+    <item name="actionBarStyle">@style/JobListingActionBar</item>
+</style>
+
+<!-- Job Listing Action Bar style -->
+<style name="JobListingActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+    <!-- Customize the action bar color -->
+    <item name="background">@color/colorPrimary</item>
+</style>
+
+<!-- Job Detail Activity theme -->
+<style name="JobDetailActivityTheme" parent="AppTheme">
+    <!-- Customize the action bar style -->
+    <item name="actionBarStyle">@style/JobDetailActionBar</item>
+</style>
+
+<!-- Job Detail Action Bar style -->
+<style name="JobDetailActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+    <!-- Customize the action bar color -->
+    <item name="background">@color/colorPrimary</item>
+</style>

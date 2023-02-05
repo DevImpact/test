@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Job Search</string>
+    <string name="listing_activity_title">Job Listings</string>
+    <string name="detail_activity_title">Job Details</string>
+    <string name="listing_title_label">Title</string>
+    <string name="listing_description_label">Description</string>
+    <string name="listing_location_label">Location</string>
+    <string name="search_hint">Search job listings...</string>
+    <string name="no_network_message">No network connection.</string>
+    <string name="error_message">An error occurred. Please try again later.</string>
+	       <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+    <string name="id_application">ca-app-pub-7977505325397665~3590693514</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7977505325397665/7338366832</string>
+    <string name="interstitiel_ad_unit_id">ca-app-pub-7977505325397665/1507649172</string>
+
+</resources>

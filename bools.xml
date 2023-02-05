@@ -1,0 +1,3 @@
+<resources>
+    <bool name="is_search_enabled">true</bool>
+</resources>
